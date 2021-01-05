@@ -1,0 +1,7 @@
+C:\Users\Iago\source\repos\igc88\NET_T09\bin\Debug\NET_T09.exe.config
+C:\Users\Iago\source\repos\igc88\NET_T09\bin\Debug\NET_T09.exe
+C:\Users\Iago\source\repos\igc88\NET_T09\bin\Debug\NET_T09.pdb
+C:\Users\Iago\source\repos\igc88\NET_T09\obj\Debug\NET_T09.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_T09\obj\Debug\NET_T09.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_T09\obj\Debug\NET_T09.exe
+C:\Users\Iago\source\repos\igc88\NET_T09\obj\Debug\NET_T09.pdb
